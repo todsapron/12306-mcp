@@ -1,4 +1,5 @@
 {
+  "start": "node build/index.js --port 8080",
   "name": "12306-mcp",
   "version": "0.3.8",
   "main": "build/index.js",
